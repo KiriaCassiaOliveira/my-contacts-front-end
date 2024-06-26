@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <img align="left" alt="Styled components" width="26px" src="https://styled-components.com/atom.png" /> Styled components
 
-- <img align="left" alt="Java Script" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />Java Script
+- <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />JavaScript
 
 ## 💻 Funcionalidades
 Criação de Contatos: Adicione novos contatos com facilidade.
