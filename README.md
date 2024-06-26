@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Funcionalidades
 Criação de Contatos: Adicione novos contatos com facilidade.
 
-<img alt="homepage" width="100%" src="/src/assets/images/git/home.png" />
+<img alt="homepage" width="50%" src="/src/assets/images/git/home.png" />
 
 Edição de Contatos: Atualize informações de contatos existentes.
 
