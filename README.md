@@ -18,11 +18,11 @@ Criação de Contatos: Adicione novos contatos com facilidade.
 
 Edição de Contatos: Atualize informações de contatos existentes.
 
-<img alt="editepage" width="50px" src="/src/assets/images/git/edit.png" />
+<img alt="editepage" width="50%" src="/src/assets/images/git/edit.png" />
 
 Exclusão de Contatos: Remova contatos que não são mais necessários.
 
-<img alt="removepage" width="50px" src="/src/assets/images/git/remove.png" />
+<img alt="removepage" width="50%" src="/src/assets/images/git/remove.png" />
 
 ## ℹ️ Como instalar
 
