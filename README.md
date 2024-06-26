@@ -14,15 +14,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Funcionalidades
 Criação de Contatos: Adicione novos contatos com facilidade.
 
-<img align="left" alt="homepage" width="50px" src="/src/assets/images/git/home.png" />
+<img alt="homepage" width="50px" src="/src/assets/images/git/home.png" />
 
 Edição de Contatos: Atualize informações de contatos existentes.
 
-<img align="left" alt="editepage" width="50px" src="/src/assets/images/git/edit.png" />
+<img alt="editepage" width="50px" src="/src/assets/images/git/edit.png" />
 
 Exclusão de Contatos: Remova contatos que não são mais necessários.
 
-<img align="left" alt="removepage" width="50px" src="/src/assets/images/git/remove.png" />
+<img alt="removepage" width="50px" src="/src/assets/images/git/remove.png" />
 
 ## ℹ️ Como instalar
 
