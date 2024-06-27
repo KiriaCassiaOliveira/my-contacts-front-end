@@ -2,7 +2,7 @@ import HttpClient from './utlis/HttpClient';
 
 class CategoriesService {
   constructor() {
-    this.HttpClient = new HttpClient('http://localhost:3001');
+    this.HttpClient = new HttpClient('http://18.231.248.2:3001');
   }
 
   listCategories() {
