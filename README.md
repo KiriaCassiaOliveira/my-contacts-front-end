@@ -9,20 +9,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <img align="left" alt="Styled components" width="26px" src="https://styled-components.com/atom.png" /> Styled components
 
-- <img align="left" alt="Java Script" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />Java Script
+- <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />JavaScript
 
 ## 💻 Funcionalidades
 Criação de Contatos: Adicione novos contatos com facilidade.
 
-<img align="left" alt="homepage" width="26px" src="/src/assets/images/git/home.png" />
+<img alt="homepage" width="50%" src="/src/assets/images/git/home.png" />
 
 Edição de Contatos: Atualize informações de contatos existentes.
 
-<img align="left" alt="editepage" width="26px" src="/src/assets/images/git/edit.png" />
+<img alt="editepage" width="50%" src="/src/assets/images/git/edit.png" />
 
 Exclusão de Contatos: Remova contatos que não são mais necessários.
 
-<img align="left" alt="removepage" width="26px" src="/src/assets/images/git/remove.png" />
+<img alt="removepage" width="50%" src="/src/assets/images/git/remove.png" />
 
 ## ℹ️ Como instalar
 
